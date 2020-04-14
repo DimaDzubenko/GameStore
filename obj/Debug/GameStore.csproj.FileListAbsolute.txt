@@ -61,3 +61,11 @@ D:\App\GameStore\GameStore\bin\EntityFramework.dll
 D:\App\GameStore\GameStore\bin\EntityFramework.SqlServer.dll
 D:\App\GameStore\GameStore\bin\EntityFramework.xml
 D:\App\GameStore\GameStore\bin\EntityFramework.SqlServer.xml
+D:\App\GameStore\GameStore\bin\Antlr3.Runtime.dll
+D:\App\GameStore\GameStore\bin\Microsoft.Web.Infrastructure.dll
+D:\App\GameStore\GameStore\bin\Newtonsoft.Json.dll
+D:\App\GameStore\GameStore\bin\System.Web.Optimization.dll
+D:\App\GameStore\GameStore\bin\WebGrease.dll
+D:\App\GameStore\GameStore\bin\Antlr3.Runtime.pdb
+D:\App\GameStore\GameStore\bin\Newtonsoft.Json.xml
+D:\App\GameStore\GameStore\bin\System.Web.Optimization.xml
